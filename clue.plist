@@ -31,14 +31,14 @@
                 <key>bundle-identifier</key>
                 <string>com.tianque.clue</string>
                 <key>bundle-version</key>
-                <string>1.0.1</string>
+                <string>1.0.2</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Clue</string>
+                <string>余杭大联动</string>
             </dict>
         </dict>
-    </array> 
-</dict> 
+    </array>
+</dict>
 </plist>
  
