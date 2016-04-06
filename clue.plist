@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/luyulong/clue/master/clue.ipa</string>
+                    <string>http://7xso1k.com2.z0.glb.clouddn.com/yuhang/clue.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/luyulong/clue/master/icon.png</string>
+                    <string>http://7xso1k.com2.z0.glb.clouddn.com/yuhang/icon.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/luyulong/clue/master/icon512.jpg</string>
+                    <string>http://7xso1k.com2.z0.glb.clouddn.com/yuhang/icon512.jpg</string>
                 </dict>
             </array>
             <key>metadata</key>
